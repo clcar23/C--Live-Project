@@ -16,13 +16,35 @@ company. It was a great opportunity to add requested features, fix bugs, and col
 
 
 ## Back End Stories
-- creating an entity model for my RentalPhoto class that saves to the database. Adding the schema for the **SQL** model and scaffolded the CRUD pages. 
+- Creating an entity model for my RentalPhoto class that saves to the database. Adding the schema for the **SQL** model and scaffolded the CRUD pages. 
 **Microsoft's Visual Studio** made it much quicker and easier to get things set up.
+
+Here is a clip from the Controller with some of the methods that get data from the model, or display a view.
 ![Back End Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project13BE.png)
+
+![B.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project14BE.png)
+
+![B.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project16BE.png)
+
+![B.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project15BE.png)
 
 
 ## Front End Stories
 - added styling to the different pages. **Html, CSS, Razor syntax, and JavaScript** all came into play on these stories. I did a lot of designing per request. **Bootstrap** helped do the heavy lifting and **Font Awesome** icons added style.
+
+![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project2FE.png)
+
+![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project3FE.png)
+
+![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project4.png)
+
+![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project5.png)
+
+![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project7.png)
+
+![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project8.png)
+
+![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-projectFE.png)
 
 
 ## Summary
