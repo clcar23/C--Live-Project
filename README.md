@@ -6,7 +6,7 @@ For two weeks I worked with other students in the Tech Academy putting together 
 **MVC/MVVM Web Application** in **C#** utilizing **ASP .NET and Entity Framework**. It's an interactive website for managing the content and productions of a theater/acting 
 company. It was a great opportunity to add requested features, fix bugs, and collaberate with the team in an **Agile** environment.
 
-### Tool For the Project:
+### Tools For the Project:
 - Microsoft's Visual Studio
 - C#
 - Html/CSS
