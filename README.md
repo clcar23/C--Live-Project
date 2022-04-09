@@ -19,32 +19,44 @@ company. It was a great opportunity to add requested features, fix bugs, and col
 - Creating an entity model for my RentalPhoto class that saves to the database. Adding the schema for the **SQL** model and scaffolded the CRUD pages. 
 **Microsoft's Visual Studio** made it much quicker and easier to get things set up.
 
+
 Here is a clip from the Controller with some of the methods that get data from the model, or display a view.
 ![Back End Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project13BE.png)
 
+This is converting the image to a byte array and saving it to the database.
 ![B.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project14BE.png)
 
-![B.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project16BE.png)
-
+Here is a clip of the model.
 ![B.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project15BE.png)
 
 
 ## Front End Stories
-- added styling to the different pages. **Html, CSS, Razor syntax, and JavaScript** all came into play on these stories. I did a lot of designing per request. **Bootstrap** helped do the heavy lifting and **Font Awesome** icons added style.
+- Added styling to the different pages. **Html, CSS, Razor syntax, and JavaScript** all came into play on these stories. I did a lot of designing per request. **Bootstrap** helped do the heavy lifting and **Font Awesome** icons added style.
 
+Here is some code from my Create page.
 ![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project2FE.png)
 
+And the Delete page.
 ![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project3FE.png)
 
+This is the Index page where I learned to wrap my card in an anchor tag to make it clickable. 
 ![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project4.png)
 
+My Index page code.
+![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-projectFE.png)
+
+The Details page.
 ![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project5.png)
 
+![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project11.png)
+
+This is the Index page final product.
 ![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project7.png)
 
+The Create page final product as per the request.
 ![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project8.png)
 
-![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-projectFE.png)
+
 
 
 ## Summary
