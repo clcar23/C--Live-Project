@@ -34,19 +34,19 @@ Here is a clip of the model.
 ## Front End Stories
 - Added styling to the different pages. **Html, CSS, Razor syntax, and JavaScript** all came into play on these stories. I did a lot of designing per request. **Bootstrap** helped do the heavy lifting and **Font Awesome** icons added style.
 
-Here is some code from my Create page.
+Here is some code from my Create page so the user can assign input for the different fields in my database model.
 ![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project2FE.png)
 
 And the Delete page.
 ![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project3FE.png)
 
-This is the Index page where I learned to wrap my card in an anchor tag to make it clickable. 
+This is the Index page where I discovered how to wrap my card in an anchor tag to make it clickable. 
 ![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project4.png)
 
-My Index page code.
+My Edit page so the user can go back and change imputs.
 ![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-projectFE.png)
 
-The Details page.
+The Details page calls up the specific item in the database and displays all its elements.
 ![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project5.png)
 
 The final Delete page view.
