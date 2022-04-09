@@ -18,6 +18,7 @@ company. It was a great opportunity to add requested features, fix bugs, and col
 ## Back End Stories
 - creating an entity model for my RentalPhoto class that saves to the database. Adding the schema for the **SQL** model and scaffolded the CRUD pages. 
 **Microsoft's Visual Studio** made it much quicker and easier to get things set up.
+![Back End Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project13BE.png)
 
 
 ## Front End Stories
