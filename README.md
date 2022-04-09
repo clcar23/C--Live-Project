@@ -30,6 +30,7 @@ Here is a clip of the model.
 ![B.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project15BE.png)
 
 
+
 ## Front End Stories
 - Added styling to the different pages. **Html, CSS, Razor syntax, and JavaScript** all came into play on these stories. I did a lot of designing per request. **Bootstrap** helped do the heavy lifting and **Font Awesome** icons added style.
 
@@ -48,17 +49,19 @@ My Index page code.
 The Details page.
 ![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project5.png)
 
-![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project11.png)
-
-This is the Index page final product.
-![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project7.png)
+The final Delete page view.
+![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project10.png)
 
 The Create page final product as per the request.
 ![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project8.png)
 
+This is the Index page final product.
+![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project7.png)
 
+Here I wanted to show how the icons that appear when the image is hovered.
+![F.E. Image](https://github.com/clcar23/C-Sharp-Live-Project/blob/main/C%23-live-project9.png)
 
 
 ## Summary
 Although this wasn't my first live project working with a team of developers, it was for others. I enjoyed being able to help, and be helped out with my fellow
-devs. I was able to help another developer get his entire card display to be clickable and I learned about converting an image into a byte array and then being able to display it in the View.
+devs. I was able to help another developer get his entire card display to be clickable and I learned about converting an image into a byte array and then being able to display it in the View. Overall I had a great time and look forward to doing it again!
