@@ -3,7 +3,7 @@ Snippets and explanations of code i worked on during a 2-week live project.
 
 ### Introduction
 For two weeks I worked with other students in the Tech Academy putting together a project over Microsoft Azure's DevOps. Our project was a full scale
-**MVC/MVVM Web Application** in **C#** utilizing **ASP .NET and Entity Framework**. It's an interactive website for managing the content and productions of a theater/acting company. I was assigned to the Rental section where I had to get the functionality and styling done. It was a great opportunity to add requested features, fix bugs, and collaberate with the team in an **Agile** environment.
+**MVC Web Application** in **C#** utilizing **ASP .NET and Entity Framework**. It's an interactive website for managing the content and productions of a theater/acting company. I was assigned to the Rental section where I had to get the functionality and styling done. It was a great opportunity to add requested features, fix bugs, and collaberate with the team in an **Agile** environment.
 
 ### Tools For the Project:
 - Microsoft's Visual Studio
